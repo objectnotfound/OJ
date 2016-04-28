@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "9du-1432-叠框", "9du-1432-叠框\9du-1432-叠框.vcxproj", "{E9666C5E-C0B4-44CE-8043-BE0F4CED6038}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9666C5E-C0B4-44CE-8043-BE0F4CED6038}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E9666C5E-C0B4-44CE-8043-BE0F4CED6038}.Debug|Win32.Build.0 = Debug|Win32
+		{E9666C5E-C0B4-44CE-8043-BE0F4CED6038}.Release|Win32.ActiveCfg = Release|Win32
+		{E9666C5E-C0B4-44CE-8043-BE0F4CED6038}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

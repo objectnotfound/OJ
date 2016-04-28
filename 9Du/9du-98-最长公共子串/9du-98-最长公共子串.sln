@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "9du-98-最长公共子串", "9du-98-最长公共子串\9du-98-最长公共子串.vcxproj", "{10B0B172-05C2-4ECE-BAD9-E475DA3C9540}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10B0B172-05C2-4ECE-BAD9-E475DA3C9540}.Debug|Win32.ActiveCfg = Debug|Win32
+		{10B0B172-05C2-4ECE-BAD9-E475DA3C9540}.Debug|Win32.Build.0 = Debug|Win32
+		{10B0B172-05C2-4ECE-BAD9-E475DA3C9540}.Release|Win32.ActiveCfg = Release|Win32
+		{10B0B172-05C2-4ECE-BAD9-E475DA3C9540}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
